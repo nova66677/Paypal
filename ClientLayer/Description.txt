@@ -1,0 +1,9 @@
+Cette layer contient tous les codes User
+
+Dans la version 1.0 :
+
+L'Utilisateur va pouvoir :
+- Consulter ses comptes,
+- Choisir la devise
+- Effectuer un paiment
+- Consulter un historique de transactions

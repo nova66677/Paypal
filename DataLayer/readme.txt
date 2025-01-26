@@ -1,0 +1,1 @@
+Les BDD utilisées sont des BDD NoSQL, basées sur mongoDB
